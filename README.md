@@ -1,6 +1,6 @@
-# flutter_ui_test
+# Flutter test
 
-A new Flutter project.
+Pieni flutter kurssin kokeilu
 
 ## Getting Started
 
