@@ -50,7 +50,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAIPC-AbGI-PNPjJnRwKJwmRtMPqxoVo8Q',
+    apiKey: 
     appId: '1:672085163734:web:68aa4ece8a658e75c41377',
     messagingSenderId: '672085163734',
     projectId: 'flutter-todo-test-project',
@@ -60,7 +60,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBVdO_PCNSIDadvcFacPzLIGeSp9Qic2fM',
+    apiKey: 
     appId: '1:672085163734:android:584b966e40dad2a2c41377',
     messagingSenderId: '672085163734',
     projectId: 'flutter-todo-test-project',
